@@ -1,0 +1,13 @@
+`Controls
+Up: 'u' , 'up'
+Down: 'd', 'down'
+Left: 'l', 'left'
+Right: 'r', 'right'
+A: 'a'
+B: 'b'
+X: 'x'
+Y: 'y'
+Start: 's'
+Select: 'e'
+Left Bumper: 'q'
+Right Bumper: 'w'`
